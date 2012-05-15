@@ -1,0 +1,2 @@
+$('.kids').hide()
+$('.wife').hide()
